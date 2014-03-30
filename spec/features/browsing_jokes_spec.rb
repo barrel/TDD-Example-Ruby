@@ -7,7 +7,7 @@ describe "Browsing Jokes", type: :feature do
 			visit "/"
 			expect(current_path).to eq "/jokes"
 		end
-	end
+	end # Root URL
 
 	describe "Jokes Index Page" do
 		it "list all of the jokes" do
