@@ -11,6 +11,6 @@ gem "dm-sqlite-adapter"
 gem 'dm-migrations'
 
 # Testing Utilities
+gem 'rack-test'
 gem 'rspec'
-gem 'guard-rspec'
-gem 'awesome_print'
+gem 'capybara'
