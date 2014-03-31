@@ -3,15 +3,15 @@ TDD Example - Ruby
 
 A simple Sinatra app illustrating the concepts behind TDD.
 
-## Getting Started
+### Getting Started
 
-Install sqlite  
+- Install sqlite  
 `brew install sqlite`
 
-Install Ruby Dependencies  
+- Install Ruby Dependencies  
 `bundle`
 
-Fire up the Rack server  
+- Fire up the Rack server  
 `rerun 'rackup'`
 
-Visit the app at localhost:9292
+- Visit the app at [localhost:9292](http://localhost:9292)
